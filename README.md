@@ -1,0 +1,1 @@
+This is a short project I made basically to just show my understanding of the coding language. Its a fun game development of grand prix, showing cars racing with changing speeds so you wont know who will win until the end
